@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Enes</h1>
-<h3 align="center">I am a person who likes learning, playing games, reading books, playing sports and coding most. I am developing myself in the Web field. I am currently working on topics such as C #, MVC, HTML, CSS JS, SQL, OOP that will push me forward in the Web field.</h3>
+<h3 align="center">I am a person who likes learning, playing games, reading books, playing sports and coding most. I am developing myself in the Web field. I am currently working on topics such as C #, MVC, MVC CORE, HTML, CSS JS, SQL, OOP that will push me forward in the Web field.</h3>
 
 - 🌱 I’m currently learning **Entity Framework, MVC, MVC Core, C# , OOP , ERP**
 
