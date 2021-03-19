@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **MVC, C# , HTML , CSS**
 
-- ⚡ Fun fact **I am currently preparing a blog site**
+- ⚡ Fun fact **I am really lazy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
